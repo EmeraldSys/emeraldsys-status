@@ -1,1 +1,1 @@
-"# emeraldsys-status" 
+# emeraldsys-status
