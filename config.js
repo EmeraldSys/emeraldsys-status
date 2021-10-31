@@ -2,6 +2,7 @@ module.exports = {
   "title": "EmeraldSys Status",
   "name": "emeraldsys_status",
   "description": "",
+  "baseUrl": "https://status.emeraldsys.xyz"
   "defaultLocale": "en",
   "locales": [
     {
@@ -12,6 +13,12 @@ module.exports = {
     }
   ],
   "content": {
-    "frontMatterFormat": "json"
+    "frontMatterFormat": "json",
+	"systems": [
+	  "pki-api",
+	  "cdn",
+	  "acidityv2-landing",
+	  "acidityv2-api"
+	]
   }
 }

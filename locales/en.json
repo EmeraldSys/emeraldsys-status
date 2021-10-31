@@ -1,4 +1,21 @@
 {
   "title": "EmeraldSys Status",
-  "description": ""
+  "description": "",
+  "systems": {
+	"items": {
+	  "pki-api": {
+		"title": "PKI API",
+		"description": "Public key infrastructure API"
+	  },
+	  "cdn": {
+		"title": "CDN"
+	  },
+	  "acidityv2-landing": {
+		"title": "Acidity V2 Landing Page"
+	  },
+	  "acidityv2-api": {
+		"title": "Acidity V2 API"
+	  }
+	}
+  }
 }
