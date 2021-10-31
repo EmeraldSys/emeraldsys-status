@@ -1,4 +1,4 @@
-name: "Update Incident"
+name: "Statusfy Incident"
 on:
   issue_comment:
   issues:
