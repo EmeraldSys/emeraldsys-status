@@ -1,0 +1,8 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Statusfy//status.emeraldsys.xyz//calendar//scheduled//EN
+NAME:EmeraldSys Status
+X-WR-CALNAME:EmeraldSys Status
+TIMEZONE-ID:UTC
+X-WR-TIMEZONE:UTC
+END:VCALENDAR
