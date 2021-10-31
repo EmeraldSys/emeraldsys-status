@@ -1,1 +1,1 @@
-[{"name":"pki-api","status":"operational","order":1},{"name":"cdn","status":"operational","order":2},{"name":"acidityv2-landing","status":"operational","order":3},{"name":"acidityv2-api","status":"operational","order":4}]
+[{"name":"pki-api","status":"under-maintenance","order":1},{"name":"cdn","status":"operational","order":2},{"name":"acidityv2-landing","status":"operational","order":3},{"name":"acidityv2-api","status":"operational","order":4}]

@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>EmeraldSys Status</title>
         <link>https://status.emeraldsys.xyz</link>
         <description>EmeraldSys Status Dashboard</description>
-        <lastBuildDate>Sun, 31 Oct 2021 05:06:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 05:09:48 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.emeraldsys.xyz/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PKI Maintenance]]></title>
+            <link>https://status.emeraldsys.xyz/incidents/3167996e</link>
+            <guid>https://status.emeraldsys.xyz/incidents/3167996e</guid>
+            <pubDate>Sun, 31 Oct 2021 05:08:07 GMT</pubDate>
+            <description><![CDATA[Frequent maintenance will be performed Oct 30 - Nov 6]]></description>
+            <content:encoded><![CDATA[<p>Frequent maintenance will be performed Oct 30 - Nov 6</p>
+]]></content:encoded>
+        </item>
     </channel>
 </rss>
