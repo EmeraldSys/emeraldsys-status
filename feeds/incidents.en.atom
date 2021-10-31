@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.emeraldsys.xyz</id>
-    <title>EmeraldSys Status</title>
-    <updated>2021-10-31T04:21:54.594Z</updated>
+    <title>EmeraldSys Status,</title>
+    <updated>2021-10-31T05:01:02.589Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.emeraldsys.xyz"/>
     <link rel="self" href="https://status.emeraldsys.xyz/feeds/incidents.en.atom"/>
+    <subtitle>EmeraldSys Status Dashboard</subtitle>
 </feed>
