@@ -14,13 +14,3 @@ jobs:
       with:
         github-token: ${{ secrets.GH_TOKEN }}
         branch: main
-    - name: Build Static Site
-      run: |
-        npm i
-        npm run generate
-    - name: Publish Static Site
-      uses: jamesives/github-pages-deploy-action@releases/v3
-      with:
-        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-        BRANCH: gh-pages
-        FOLDER: dist
