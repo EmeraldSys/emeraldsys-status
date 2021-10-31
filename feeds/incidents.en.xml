@@ -4,10 +4,19 @@
         <title>EmeraldSys Status</title>
         <link>https://status.emeraldsys.xyz</link>
         <description>EmeraldSys Status Dashboard</description>
-        <lastBuildDate>Sun, 31 Oct 2021 05:25:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 19:18:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.emeraldsys.xyz/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PKI Maintenance #2]]></title>
+            <link>https://status.emeraldsys.xyz/incidents/31680dcd</link>
+            <guid>https://status.emeraldsys.xyz/incidents/31680dcd</guid>
+            <pubDate>Sun, 31 Oct 2021 19:16:50 GMT</pubDate>
+            <description><![CDATA[Working on email domain control validation method.]]></description>
+            <content:encoded><![CDATA[<p>Working on email domain control validation method.</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[PKI Maintenance]]></title>
             <link>https://status.emeraldsys.xyz/incidents/3167996e</link>
