@@ -2,7 +2,7 @@ module.exports = {
   "title": "EmeraldSys Status",
   "name": "emeraldsys_status",
   "description": "",
-  "baseUrl": "https://status.emeraldsys.xyz"
+  "baseUrl": "https://status.emeraldsys.xyz",
   "defaultLocale": "en",
   "locales": [
     {
