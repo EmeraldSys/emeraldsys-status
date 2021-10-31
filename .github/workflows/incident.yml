@@ -1,0 +1,26 @@
+name: "Update Incident"
+on:
+  issue_comment:
+  issues:
+    types: [opened, edited, closed, reopened]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: Generate Incident
+      uses: devkanro/setup-statusfy@v1
+      with:
+        github-token: ${{ secrets.GH_TOKEN }}
+        branch: main
+    - name: Build Static Site
+      run: |
+        npm i
+        npm run generate
+    - name: Publish Static Site
+      uses: jamesives/github-pages-deploy-action@releases/v3
+      with:
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        BRANCH: gh-pages
+        FOLDER: dist
