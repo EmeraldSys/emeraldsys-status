@@ -2,8 +2,9 @@ name: "Deploy Statusfy"
 on:
   push:
     branches: ["main"]
-  schedule:
-    - cron: "0 0 * * *"
+  repository_dispatch:
+    types:
+      - webhook
 
 jobs:
   github-pages:
