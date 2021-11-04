@@ -1,10 +1,8 @@
 name: "Deploy Statusfy"
 on:
+  repository_dispatch:
   push:
     branches: ["main"]
-  repository_dispatch:
-    types:
-      - webhook
 
 jobs:
   github-pages:
