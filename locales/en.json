@@ -8,7 +8,8 @@
 		"description": "Public key infrastructure API"
 	  },
 	  "cdn": {
-		"title": "CDN"
+		"title": "CDN - North Virginia",
+		"description": "Private storage host"
 	  },
 	  "acidityv2-landing": {
 		"title": "Acidity V2 Landing Page"
