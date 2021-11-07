@@ -15,6 +15,10 @@
 	  },
 	  "acidityv2-api": {
 		"title": "Acidity V2 API"
+	  },
+	  "vpn-oregon": {
+		"title": "VPN - Oregon",
+		"description": "Not for public use"
 	  }
 	}
   }
