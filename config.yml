@@ -12,6 +12,7 @@ content:
   frontMatterFormat: json
   systems:
   - pki-api
+  - pki-cdn
   - cdn
   - acidityv2-landing
   - acidityv2-api

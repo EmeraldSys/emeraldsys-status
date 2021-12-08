@@ -7,6 +7,10 @@
 		"title": "PKI API",
 		"description": "Public key infrastructure API"
 	  },
+	  "pki-cdn": {
+		"title": "PKI CDN - North California",
+		"description": "Public key infrastructure CDN"
+	  },
 	  "cdn": {
 		"title": "CDN - North Virginia",
 		"description": "Private storage host"
