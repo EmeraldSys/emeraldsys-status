@@ -14,6 +14,6 @@ content:
   - pki-api
   - pki-cdn
   - cdn
-  - acidityv2-landing
-  - acidityv2-api
+  - acidityv3-landing
+  - acidityv3-api
   - vpn-oregon
