@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.emeraldsys.xyz</id>
     <title>EmeraldSys Status</title>
-    <updated>2022-01-11T00:02:17.597Z</updated>
+    <updated>2022-01-12T00:02:17.445Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.emeraldsys.xyz"/>
     <link rel="self" href="https://status.emeraldsys.xyz/feeds/incidents.en.atom"/>
