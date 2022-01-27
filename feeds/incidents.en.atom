@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.emeraldsys.xyz</id>
     <title>EmeraldSys Status</title>
-    <updated>2022-01-27T00:02:14.978Z</updated>
+    <updated>2022-01-27T07:55:12.044Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.emeraldsys.xyz"/>
     <link rel="self" href="https://status.emeraldsys.xyz/feeds/incidents.en.atom"/>
     <subtitle>EmeraldSys Status Dashboard</subtitle>
+    <entry>
+        <title type="html"><![CDATA[PKI CA CDN not working]]></title>
+        <id>https://status.emeraldsys.xyz/incidents/0ef09549</id>
+        <link href="https://status.emeraldsys.xyz/incidents/0ef09549"/>
+        <updated>2022-01-27T07:53:13.000Z</updated>
+        <summary type="html"><![CDATA[Investigating an issue regarding the global PKI CA CDN.]]></summary>
+        <content type="html"><![CDATA[<p>Investigating an issue regarding the global PKI CA CDN.</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Migrating to new PKI landing page]]></title>
         <id>https://status.emeraldsys.xyz/incidents/0a4513b8</id>

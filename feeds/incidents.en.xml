@@ -4,10 +4,19 @@
         <title>EmeraldSys Status</title>
         <link>https://status.emeraldsys.xyz</link>
         <description>EmeraldSys Status Dashboard</description>
-        <lastBuildDate>Thu, 27 Jan 2022 00:02:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 07:55:12 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.emeraldsys.xyz/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PKI CA CDN not working]]></title>
+            <link>https://status.emeraldsys.xyz/incidents/0ef09549</link>
+            <guid>https://status.emeraldsys.xyz/incidents/0ef09549</guid>
+            <pubDate>Thu, 27 Jan 2022 07:53:13 GMT</pubDate>
+            <description><![CDATA[Investigating an issue regarding the global PKI CA CDN.]]></description>
+            <content:encoded><![CDATA[<p>Investigating an issue regarding the global PKI CA CDN.</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Migrating to new PKI landing page]]></title>
             <link>https://status.emeraldsys.xyz/incidents/0a4513b8</link>

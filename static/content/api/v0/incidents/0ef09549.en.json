@@ -1,0 +1,1 @@
+{"id":"0ef09549","title":"PKI CA CDN not working","description":"Investigating an issue regarding the global PKI CA CDN.","date":"2022-01-27T07:53:13.000Z","modified":"2022-01-27T07:53:13.000Z","scheduled":null,"severity":"partial-outage","affectedsystems":["pki-cdn"],"resolved":false,"content":"<p>Investigating an issue regarding the global PKI CA CDN.</p>\n"}
