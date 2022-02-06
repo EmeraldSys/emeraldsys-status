@@ -11,6 +11,10 @@
 		"title": "PKI CDN - North California",
 		"description": "Public key infrastructure CDN"
 	  },
+	  "edge-cdn": {
+		  "title": "Edge CDN - CloudFront",
+		  "description": "Asset storage host"
+	  },
 	  "cdn": {
 		"title": "CDN - North Virginia",
 		"description": "Private storage host"

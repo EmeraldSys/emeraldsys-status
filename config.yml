@@ -13,6 +13,7 @@ content:
   systems:
   - pki-api
   - pki-cdn
+  - edge-cdn
   - cdn
   - acidityv3-landing
   - acidityv3-api
