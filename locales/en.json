@@ -12,8 +12,12 @@
 		"description": "Public key infrastructure CDN"
 	  },
 	  "edge-cdn": {
-		  "title": "Edge CDN - CloudFront",
+		  "title": "Edge CDN - North California - CloudFront",
 		  "description": "Asset storage host"
+	  },
+	  "backup-edge-cdn": {
+		  "title": "Backup Edge CDN - North Virginia - CloudFront",
+		  "description": "Backup asset storage host"
 	  },
 	  "cdn": {
 		"title": "CDN - North Virginia",
