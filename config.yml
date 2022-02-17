@@ -16,4 +16,9 @@ content:
   - cdn
   - acidityv3-landing
   - acidityv3-api
+  - nhlv-frontend
+  - nhlv-api
+  - nhlv-media-api
+  - rbxexchange-frontend
+  - rbxexchange-api
   - vpn-oregon

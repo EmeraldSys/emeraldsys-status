@@ -21,6 +21,21 @@
 	  "acidityv3-api": {
 		"title": "Acidity V3 API"
 	  },
+	  "nhlv-frontend": {
+		"title": "NHLViewer Frontend"
+	  },
+	  "nhlv-api": {
+		"title": "NHLViewer API"
+	  },
+	  "nhlv-media-api": {
+		"title": "NHLViewer Media API"
+	  },
+	  "rbxexchange-frontend": {
+		"title": "RBXExchange Frontend"
+	  },
+	  "rbxexchange-api": {
+		"title": "RBXExchange API"
+	  },
 	  "vpn-oregon": {
 		"title": "VPN - Oregon",
 		"description": "Not for public use"
