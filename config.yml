@@ -2,7 +2,7 @@ title: EmeraldSys Status
 name: emeraldsys_status
 description: "EmeraldSys Status Dashboard"
 defaultLocale: en
-baseUrl: "https://www.emeraldsys.xyz"
+baseUrl: "https://status.emeraldsys.xyz"
 locales:
   - code: en
     iso: en-US
