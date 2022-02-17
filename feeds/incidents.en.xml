@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>EmeraldSys Status</title>
-        <link>https://status.emeraldsys.xyz</link>
+        <link>https://www.emeraldsys.xyz</link>
         <description>EmeraldSys Status Dashboard</description>
-        <lastBuildDate>Thu, 17 Feb 2022 23:09:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 23:15:23 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
-        <atom:link href="https://status.emeraldsys.xyz/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.emeraldsys.xyz/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[RBXExchange initial setup]]></title>
-            <link>https://status.emeraldsys.xyz/incidents/0ea59247</link>
-            <guid>https://status.emeraldsys.xyz/incidents/0ea59247</guid>
+            <link>https://www.emeraldsys.xyz/incidents/0ea59247</link>
+            <guid>https://www.emeraldsys.xyz/incidents/0ea59247</guid>
             <pubDate>Thu, 17 Feb 2022 23:08:19 GMT</pubDate>
             <description><![CDATA[RBXExchange is being worked on today and will most likely be finished tonight.]]></description>
             <content:encoded><![CDATA[<p>RBXExchange is being worked on today and will most likely be finished tonight.</p>
@@ -19,8 +19,8 @@
         </item>
         <item>
             <title><![CDATA[PKI API Maintenance]]></title>
-            <link>https://status.emeraldsys.xyz/incidents/0ef109a8</link>
-            <guid>https://status.emeraldsys.xyz/incidents/0ef109a8</guid>
+            <link>https://www.emeraldsys.xyz/incidents/0ef109a8</link>
+            <guid>https://www.emeraldsys.xyz/incidents/0ef109a8</guid>
             <pubDate>Thu, 27 Jan 2022 08:31:33 GMT</pubDate>
             <description><![CDATA[The PKI API will go under maintenance for adding certain features that impact the PKI CA CDN.]]></description>
             <content:encoded><![CDATA[<p>The PKI API will go under maintenance for adding certain features that impact the PKI CA CDN.</p>
@@ -35,8 +35,8 @@
         </item>
         <item>
             <title><![CDATA[PKI CA CDN not working]]></title>
-            <link>https://status.emeraldsys.xyz/incidents/0ef09549</link>
-            <guid>https://status.emeraldsys.xyz/incidents/0ef09549</guid>
+            <link>https://www.emeraldsys.xyz/incidents/0ef09549</link>
+            <guid>https://www.emeraldsys.xyz/incidents/0ef09549</guid>
             <pubDate>Thu, 27 Jan 2022 07:53:13 GMT</pubDate>
             <description><![CDATA[Investigating an issue regarding the global PKI CA CDN.]]></description>
             <content:encoded><![CDATA[<p>Investigating an issue regarding the global PKI CA CDN.</p>
@@ -51,8 +51,8 @@
         </item>
         <item>
             <title><![CDATA[Migrating to new PKI landing page]]></title>
-            <link>https://status.emeraldsys.xyz/incidents/0a4513b8</link>
-            <guid>https://status.emeraldsys.xyz/incidents/0a4513b8</guid>
+            <link>https://www.emeraldsys.xyz/incidents/0a4513b8</link>
+            <guid>https://www.emeraldsys.xyz/incidents/0a4513b8</guid>
             <pubDate>Sun, 21 Nov 2021 01:02:09 GMT</pubDate>
             <description><![CDATA[This does not have to do with the actual PKI API but the main PKI landing page. Migration should be complete within an hour.]]></description>
             <content:encoded><![CDATA[<p>This does not have to do with the actual PKI API but the main PKI landing page. Migration should be complete within an hour.</p>
@@ -67,8 +67,8 @@
         </item>
         <item>
             <title><![CDATA[Test Maintenance 3]]></title>
-            <link>https://status.emeraldsys.xyz/incidents/1da4eeea</link>
-            <guid>https://status.emeraldsys.xyz/incidents/1da4eeea</guid>
+            <link>https://www.emeraldsys.xyz/incidents/1da4eeea</link>
+            <guid>https://www.emeraldsys.xyz/incidents/1da4eeea</guid>
             <pubDate>Fri, 05 Nov 2021 00:20:39 GMT</pubDate>
             <description><![CDATA[Testing some new changes with incidents.]]></description>
             <content:encoded><![CDATA[<p>Testing some new changes with incidents.</p>
@@ -83,8 +83,8 @@
         </item>
         <item>
             <title><![CDATA[PKI Maintenance #2]]></title>
-            <link>https://status.emeraldsys.xyz/incidents/31680dcd</link>
-            <guid>https://status.emeraldsys.xyz/incidents/31680dcd</guid>
+            <link>https://www.emeraldsys.xyz/incidents/31680dcd</link>
+            <guid>https://www.emeraldsys.xyz/incidents/31680dcd</guid>
             <pubDate>Sun, 31 Oct 2021 19:16:50 GMT</pubDate>
             <description><![CDATA[Working on email domain control validation method.]]></description>
             <content:encoded><![CDATA[<p>Working on email domain control validation method.</p>
@@ -106,8 +106,8 @@
         </item>
         <item>
             <title><![CDATA[PKI Maintenance]]></title>
-            <link>https://status.emeraldsys.xyz/incidents/3167996e</link>
-            <guid>https://status.emeraldsys.xyz/incidents/3167996e</guid>
+            <link>https://www.emeraldsys.xyz/incidents/3167996e</link>
+            <guid>https://www.emeraldsys.xyz/incidents/3167996e</guid>
             <pubDate>Sun, 31 Oct 2021 05:08:07 GMT</pubDate>
             <description><![CDATA[Frequent maintenance will be performed Oct 30 - Nov 6]]></description>
             <content:encoded><![CDATA[<p>Frequent maintenance will be performed Oct 30 - Nov 6</p>

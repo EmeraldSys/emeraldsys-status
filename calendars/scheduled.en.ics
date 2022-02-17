@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Statusfy//status.emeraldsys.xyz//calendar//scheduled//EN
+PRODID:-//Statusfy//www.emeraldsys.xyz//calendar//scheduled//EN
 NAME:EmeraldSys Status
 X-WR-CALNAME:EmeraldSys Status
 TIMEZONE-ID:UTC

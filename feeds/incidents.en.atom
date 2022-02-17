@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://status.emeraldsys.xyz</id>
+    <id>https://www.emeraldsys.xyz</id>
     <title>EmeraldSys Status</title>
-    <updated>2022-02-17T23:09:59.858Z</updated>
+    <updated>2022-02-17T23:15:23.167Z</updated>
     <generator>Statusfy</generator>
-    <link rel="alternate" href="https://status.emeraldsys.xyz"/>
-    <link rel="self" href="https://status.emeraldsys.xyz/feeds/incidents.en.atom"/>
+    <link rel="alternate" href="https://www.emeraldsys.xyz"/>
+    <link rel="self" href="https://www.emeraldsys.xyz/feeds/incidents.en.atom"/>
     <subtitle>EmeraldSys Status Dashboard</subtitle>
     <entry>
         <title type="html"><![CDATA[RBXExchange initial setup]]></title>
-        <id>https://status.emeraldsys.xyz/incidents/0ea59247</id>
-        <link href="https://status.emeraldsys.xyz/incidents/0ea59247"/>
+        <id>https://www.emeraldsys.xyz/incidents/0ea59247</id>
+        <link href="https://www.emeraldsys.xyz/incidents/0ea59247"/>
         <updated>2022-02-17T23:08:19.000Z</updated>
         <summary type="html"><![CDATA[RBXExchange is being worked on today and will most likely be finished tonight.]]></summary>
         <content type="html"><![CDATA[<p>RBXExchange is being worked on today and will most likely be finished tonight.</p>
@@ -18,8 +18,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[PKI API Maintenance]]></title>
-        <id>https://status.emeraldsys.xyz/incidents/0ef109a8</id>
-        <link href="https://status.emeraldsys.xyz/incidents/0ef109a8"/>
+        <id>https://www.emeraldsys.xyz/incidents/0ef109a8</id>
+        <link href="https://www.emeraldsys.xyz/incidents/0ef109a8"/>
         <updated>2022-01-27T08:31:33.000Z</updated>
         <summary type="html"><![CDATA[The PKI API will go under maintenance for adding certain features that impact the PKI CA CDN.]]></summary>
         <content type="html"><![CDATA[<p>The PKI API will go under maintenance for adding certain features that impact the PKI CA CDN.</p>
@@ -34,8 +34,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[PKI CA CDN not working]]></title>
-        <id>https://status.emeraldsys.xyz/incidents/0ef09549</id>
-        <link href="https://status.emeraldsys.xyz/incidents/0ef09549"/>
+        <id>https://www.emeraldsys.xyz/incidents/0ef09549</id>
+        <link href="https://www.emeraldsys.xyz/incidents/0ef09549"/>
         <updated>2022-01-27T07:53:13.000Z</updated>
         <summary type="html"><![CDATA[Investigating an issue regarding the global PKI CA CDN.]]></summary>
         <content type="html"><![CDATA[<p>Investigating an issue regarding the global PKI CA CDN.</p>
@@ -50,8 +50,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Migrating to new PKI landing page]]></title>
-        <id>https://status.emeraldsys.xyz/incidents/0a4513b8</id>
-        <link href="https://status.emeraldsys.xyz/incidents/0a4513b8"/>
+        <id>https://www.emeraldsys.xyz/incidents/0a4513b8</id>
+        <link href="https://www.emeraldsys.xyz/incidents/0a4513b8"/>
         <updated>2021-11-21T01:02:09.000Z</updated>
         <summary type="html"><![CDATA[This does not have to do with the actual PKI API but the main PKI landing page. Migration should be complete within an hour.]]></summary>
         <content type="html"><![CDATA[<p>This does not have to do with the actual PKI API but the main PKI landing page. Migration should be complete within an hour.</p>
@@ -66,8 +66,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Test Maintenance 3]]></title>
-        <id>https://status.emeraldsys.xyz/incidents/1da4eeea</id>
-        <link href="https://status.emeraldsys.xyz/incidents/1da4eeea"/>
+        <id>https://www.emeraldsys.xyz/incidents/1da4eeea</id>
+        <link href="https://www.emeraldsys.xyz/incidents/1da4eeea"/>
         <updated>2021-11-05T00:20:39.000Z</updated>
         <summary type="html"><![CDATA[Testing some new changes with incidents.]]></summary>
         <content type="html"><![CDATA[<p>Testing some new changes with incidents.</p>
@@ -82,8 +82,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[PKI Maintenance #2]]></title>
-        <id>https://status.emeraldsys.xyz/incidents/31680dcd</id>
-        <link href="https://status.emeraldsys.xyz/incidents/31680dcd"/>
+        <id>https://www.emeraldsys.xyz/incidents/31680dcd</id>
+        <link href="https://www.emeraldsys.xyz/incidents/31680dcd"/>
         <updated>2021-10-31T19:16:50.000Z</updated>
         <summary type="html"><![CDATA[Working on email domain control validation method.]]></summary>
         <content type="html"><![CDATA[<p>Working on email domain control validation method.</p>
@@ -105,8 +105,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[PKI Maintenance]]></title>
-        <id>https://status.emeraldsys.xyz/incidents/3167996e</id>
-        <link href="https://status.emeraldsys.xyz/incidents/3167996e"/>
+        <id>https://www.emeraldsys.xyz/incidents/3167996e</id>
+        <link href="https://www.emeraldsys.xyz/incidents/3167996e"/>
         <updated>2021-10-31T05:08:07.000Z</updated>
         <summary type="html"><![CDATA[Frequent maintenance will be performed Oct 30 - Nov 6]]></summary>
         <content type="html"><![CDATA[<p>Frequent maintenance will be performed Oct 30 - Nov 6</p>
