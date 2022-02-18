@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.emeraldsys.xyz</id>
     <title>EmeraldSys Status</title>
-    <updated>2022-02-18T06:54:58.395Z</updated>
+    <updated>2022-02-18T22:28:45.026Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.emeraldsys.xyz"/>
     <link rel="self" href="https://status.emeraldsys.xyz/feeds/incidents.en.atom"/>
     <subtitle>EmeraldSys Status Dashboard</subtitle>
+    <entry>
+        <title type="html"><![CDATA[RBXExchange Authentication Maintenance]]></title>
+        <id>https://status.emeraldsys.xyz/incidents/05ade5b2</id>
+        <link href="https://status.emeraldsys.xyz/incidents/05ade5b2"/>
+        <updated>2022-02-18T22:27:21.000Z</updated>
+        <summary type="html"><![CDATA[RBXExchange will be undergoing authentication maintenance at this time.]]></summary>
+        <content type="html"><![CDATA[<p>RBXExchange will be undergoing authentication maintenance at this time.</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RBXExchange initial setup]]></title>
         <id>https://status.emeraldsys.xyz/incidents/0ea59247</id>
