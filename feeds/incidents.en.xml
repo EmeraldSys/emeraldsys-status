@@ -4,10 +4,19 @@
         <title>EmeraldSys Status</title>
         <link>https://status.emeraldsys.xyz</link>
         <description>EmeraldSys Status Dashboard</description>
-        <lastBuildDate>Sun, 20 Feb 2022 00:01:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 06:03:58 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.emeraldsys.xyz/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Roblox experiencing issues again]]></title>
+            <link>https://status.emeraldsys.xyz/incidents/6aef8b7c</link>
+            <guid>https://status.emeraldsys.xyz/incidents/6aef8b7c</guid>
+            <pubDate>Sun, 20 Feb 2022 06:02:28 GMT</pubDate>
+            <description><![CDATA[RBXExchange is affected by the current Roblox outage again. Please wait for a fix.]]></description>
+            <content:encoded><![CDATA[<p>RBXExchange is affected by the current Roblox outage again. Please wait for a fix.</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Roblox experiencing issues]]></title>
             <link>https://status.emeraldsys.xyz/incidents/28a6eff2</link>
