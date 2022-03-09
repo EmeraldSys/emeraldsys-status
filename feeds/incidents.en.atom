@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.emeraldsys.xyz</id>
     <title>EmeraldSys Status</title>
-    <updated>2022-03-09T00:02:00.742Z</updated>
+    <updated>2022-03-09T23:22:32.841Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.emeraldsys.xyz"/>
     <link rel="self" href="https://status.emeraldsys.xyz/feeds/incidents.en.atom"/>
     <subtitle>EmeraldSys Status Dashboard</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Acidity V3 API Cert Issue]]></title>
+        <id>https://status.emeraldsys.xyz/incidents/293cf5f6</id>
+        <link href="https://status.emeraldsys.xyz/incidents/293cf5f6"/>
+        <updated>2022-03-09T23:21:11.000Z</updated>
+        <summary type="html"><![CDATA[Certificate needs to be renewed.]]></summary>
+        <content type="html"><![CDATA[<p>Certificate needs to be renewed.</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Roblox experiencing issues again]]></title>
         <id>https://status.emeraldsys.xyz/incidents/6aef8b7c</id>
