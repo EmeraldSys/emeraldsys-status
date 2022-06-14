@@ -19,4 +19,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           BRANCH: gh-pages
           FOLDER: dist
-          COMMIT-MESSAGE: Update/Refresh Statusfy
+          COMMIT_MESSAGE: Update/Refresh Statusfy
