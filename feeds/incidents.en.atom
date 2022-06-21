@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.emeraldsys.xyz</id>
     <title>EmeraldSys Status</title>
-    <updated>2022-06-21T00:01:49.276Z</updated>
+    <updated>2022-06-21T07:00:38.077Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.emeraldsys.xyz"/>
     <link rel="self" href="https://status.emeraldsys.xyz/feeds/incidents.en.atom"/>
     <subtitle>EmeraldSys Status Dashboard</subtitle>
+    <entry>
+        <title type="html"><![CDATA[CloudFlare Issue]]></title>
+        <id>https://status.emeraldsys.xyz/incidents/408a1b92</id>
+        <link href="https://status.emeraldsys.xyz/incidents/408a1b92"/>
+        <updated>2022-06-21T06:59:16.000Z</updated>
+        <summary type="html"><![CDATA[A CloudFlare issue is impacting the following services.]]></summary>
+        <content type="html"><![CDATA[<p>A CloudFlare issue is impacting the following services.</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Acidity V3 API Cert Issue]]></title>
         <id>https://status.emeraldsys.xyz/incidents/293cf5f6</id>
