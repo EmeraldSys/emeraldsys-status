@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.emeraldsys.xyz</id>
     <title>EmeraldSys Status</title>
-    <updated>2022-06-21T07:19:55.148Z</updated>
+    <updated>2022-06-21T07:23:14.931Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.emeraldsys.xyz"/>
     <link rel="self" href="https://status.emeraldsys.xyz/feeds/incidents.en.atom"/>
@@ -14,6 +14,13 @@
         <updated>2022-06-21T06:59:16.000Z</updated>
         <summary type="html"><![CDATA[A CloudFlare issue is impacting the following services.]]></summary>
         <content type="html"><![CDATA[<p>A CloudFlare issue is impacting the following services.</p>
+<div class="update-block">
+          <div class="update-block-date">2022-06-21T07:21:46.000Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Monitoring</div>
+            <div class="update-block-body">
+<p>Issue seems to be somewhat fixed.</p>
+</div></div></div>
 ]]></content>
     </entry>
     <entry>
