@@ -43,6 +43,15 @@
 	  },
 	  "rbxexchange-api": {
 		"title": "RBXExchange API"
+	  },
+	  "gitlab": {
+		"title": "GitLab Instance"
+	  },
+	  "gitlab-runner-1": {
+		"title": "GitLab Runner 1 (AWS)"
+	  },
+	  "gitlab-runner-2": {
+		"title": "GitLab Runner 2 (IONOS)"
 	  }
 	}
   }

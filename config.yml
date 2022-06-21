@@ -23,3 +23,6 @@ content:
   - nhlv-media-api
   - rbxexchange-frontend
   - rbxexchange-api
+  - gitlab
+  - gitlab-runner-1
+  - gitlab-runner-2
