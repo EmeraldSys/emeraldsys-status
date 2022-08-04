@@ -46,9 +46,6 @@
 	  },
 	  "gitlab": {
 		"title": "GitLab Instance"
-	  },
-	  "gitlab-runner-1": {
-		"title": "GitLab Runner 1 (AWS)"
 	  }
 	}
   }
