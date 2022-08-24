@@ -4,10 +4,19 @@
         <title>EmeraldSys Status</title>
         <link>https://status.emeraldsys.xyz</link>
         <description>EmeraldSys Status Dashboard</description>
-        <lastBuildDate>Wed, 24 Aug 2022 00:01:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 00:24:45 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.emeraldsys.xyz/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Issue with NHLViewer frontend]]></title>
+            <link>https://status.emeraldsys.xyz/incidents/6e723601</link>
+            <guid>https://status.emeraldsys.xyz/incidents/6e723601</guid>
+            <pubDate>Wed, 24 Aug 2022 00:23:31 GMT</pubDate>
+            <description><![CDATA[There is an ongoing issue with the upstream DNS provider. https://status.heroku.com/incidents/2453]]></description>
+            <content:encoded><![CDATA[<p>There is an ongoing issue with the upstream DNS provider. https://status.heroku.com/incidents/2453</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Migrating GitLab Instance]]></title>
             <link>https://status.emeraldsys.xyz/incidents/7feebb21</link>
