@@ -16,6 +16,7 @@ content:
   - edge-cdn
   - backup-edge-cdn
   - cdn
+  - acidityv3-landing
   - nhlv-frontend
   - nhlv-api
   - nhlv-media-api

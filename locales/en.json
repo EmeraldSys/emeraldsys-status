@@ -23,6 +23,9 @@
 		"title": "CDN - North Virginia",
 		"description": "Private storage host"
 	  },
+	  "acidityv3-landing": {
+		"title": "Acidity V3 Landing Page"
+	  },
 	  "nhlv-frontend": {
 		"title": "NHLViewer Frontend"
 	  },
