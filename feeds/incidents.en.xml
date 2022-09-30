@@ -4,10 +4,19 @@
         <title>EmeraldSys Status</title>
         <link>https://status.emeraldsys.xyz</link>
         <description>EmeraldSys Status Dashboard</description>
-        <lastBuildDate>Fri, 30 Sep 2022 00:01:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Sep 2022 22:08:32 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.emeraldsys.xyz/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Migrating edge APIs]]></title>
+            <link>https://status.emeraldsys.xyz/incidents/77d6ac39</link>
+            <guid>https://status.emeraldsys.xyz/incidents/77d6ac39</guid>
+            <pubDate>Fri, 30 Sep 2022 22:07:05 GMT</pubDate>
+            <description><![CDATA[This will take about an hour to complete.]]></description>
+            <content:encoded><![CDATA[<p>This will take about an hour to complete.</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Migrating GitLab Instance to OVH]]></title>
             <link>https://status.emeraldsys.xyz/incidents/f7091688</link>
