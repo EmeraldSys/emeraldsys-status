@@ -4,10 +4,19 @@
         <title>EmeraldSys Status</title>
         <link>https://status.emeraldsys.xyz</link>
         <description>EmeraldSys Status Dashboard</description>
-        <lastBuildDate>Mon, 03 Oct 2022 02:04:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Oct 2022 22:58:52 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.emeraldsys.xyz/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[NHLViewer beta upstream issue]]></title>
+            <link>https://status.emeraldsys.xyz/incidents/004fe868</link>
+            <guid>https://status.emeraldsys.xyz/incidents/004fe868</guid>
+            <pubDate>Mon, 03 Oct 2022 22:57:28 GMT</pubDate>
+            <description><![CDATA[We have detected downtime on one of our beta services utilizing Render. You can still use the stable version. Track the incident from Render here: https://status.render.com/incidents/mnmbhg8hl7kd]]></description>
+            <content:encoded><![CDATA[<p>We have detected downtime on one of our beta services utilizing Render. You can still use the stable version. Track the incident from Render here: https://status.render.com/incidents/mnmbhg8hl7kd</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Migrating edge APIs]]></title>
             <link>https://status.emeraldsys.xyz/incidents/77d6ac39</link>
