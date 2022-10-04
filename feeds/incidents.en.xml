@@ -4,7 +4,7 @@
         <title>EmeraldSys Status</title>
         <link>https://status.emeraldsys.xyz</link>
         <description>EmeraldSys Status Dashboard</description>
-        <lastBuildDate>Tue, 04 Oct 2022 00:01:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Oct 2022 01:41:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.emeraldsys.xyz/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
@@ -15,6 +15,13 @@
             <pubDate>Mon, 03 Oct 2022 22:57:28 GMT</pubDate>
             <description><![CDATA[We have detected downtime on one of our beta services utilizing Render. You can still use the stable version. Track the incident from Render here: https://status.render.com/incidents/mnmbhg8hl7kd]]></description>
             <content:encoded><![CDATA[<p>We have detected downtime on one of our beta services utilizing Render. You can still use the stable version. Track the incident from Render here: https://status.render.com/incidents/mnmbhg8hl7kd</p>
+<div class="update-block">
+          <div class="update-block-date">2022-10-04T01:39:49.000Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Identified</div>
+            <div class="update-block-body">
+<p>Render is still working on a fix for the downtime. No ETA at the moment.</p>
+</div></div></div>
 ]]></content:encoded>
         </item>
         <item>
